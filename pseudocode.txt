@@ -1,0 +1,12 @@
+Pseudocode
+
+1. PRINT mode menu
+2. LET input mode 
+3. CHECK whether the input is an integer in [1,2,3,4] that corresponds to the operation- if 4. yes proceed to next, if not ask the user to re-enter an input
+5. LET input first number
+6. LET input second number
+7. DO the arithmetic operation
+8. CHECK if the inputs are integers- if yes, proceed to the next, if not ask the user to re-enter the inputs
+9. CHECK if the divisor is non-zero (for division)- if yes proceed to next, if not ask the user to re-enter inputs
+10. PRINT the result
+11. LET input exit -if yes break the loop, if not continue the loop
